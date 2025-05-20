@@ -1,2 +1,7 @@
 Steps taken to install sass include,
 Creation of subfolder where sass files would be stored.
+Installation;
+I installed SASS by using the following command after i installed node on my laptop
+npm install sass -v 3.7.4
+
+
